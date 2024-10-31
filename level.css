@@ -1,0 +1,137 @@
+.icons{
+    margin-right: 20px;
+    position: absolute;
+    margin-left: 1350px;
+}
+
+
+.hellow{
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    background-color: white;
+    margin-top: -500px;
+    margin-left: 34%;
+    text-align: center;
+    
+}
+
+.mttt{
+    margin-top: 40px;
+    line-height: 4;
+}
+
+
+
+.img1{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    border-radius: 100%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+
+
+@media (max-width:865px){
+    .img1{
+        margin-left: 30px;
+        height: 200px;
+        width: 200px;
+    }
+    .icons{
+        margin-left: 650px;
+    }
+    .hellow{
+        display: none;
+    }
+}
+
+
+@media (max-width:810px){
+    .icons{
+        margin-left: 600px;
+    }
+}
+
+@media (max-width:760px){
+    .icons{
+        margin-left: 550px;
+    }
+}
+
+@media (max-width:706px){
+    .icons{
+        margin-left: 500px;
+    }
+}
+
+@media (max-width:656px){
+    .icons{
+        margin-left: 450px;
+    }
+}
+
+@media (max-width:608px){
+    .icons{
+        margin-left: 400px;
+    }
+}
+
+@media (max-width:560px){
+    .icons{
+        margin-left: 350px;
+    }
+}
+
+
+@media (max-width:507px){
+    .icons{
+        margin-left: 300px;
+    }
+}
+
+@media (max-width:455px){
+    .icons{
+        margin-left: 250px;
+    }
+}
+
+@media (max-width:721px){
+    .jap{
+        position: absolute;
+        margin-top: 500px;
+        margin-right: 80px;
+        
+    }
+
+    .falak{
+        display: flex;
+        justify-content: center;
+    }
+    .img1{
+        margin-left: 20px;
+    }
+
+}
+
+
+@media(max-width:601px){
+    .img1{
+        margin-left: 0px;
+    }
+
+    
+}
+
+
+@media(max-width:490px){
+    .img1{
+        margin-left: -20px;
+    }
+
+    
+}
+
+
